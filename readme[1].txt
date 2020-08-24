@@ -1,4 +1,4 @@
-How to run the program:
+How to run the program: Type these lines in command prompt
 javac Main.java
 java Main
 
